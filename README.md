@@ -2,7 +2,7 @@
 - 👀 I’m interested in Collaborative Projects
 - 🌱 I’m currently learning Javascript and Mysql
 - 💞️ I’m looking to collaborate on projects related to social welfare or business type projects
-- 📫 How to reach me ...
+
 
 <!---
 Yashraj5122/Yashraj5122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
