@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yashraj5122
 - 👀 I’m interested in Collaborative Projects
-- 🌱 I’m currently learning Javascript and Mysql
 - 💞️ I’m looking to collaborate on projects related to social welfare or business type projects
 
 
