@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Yashraj+Sinha+!!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I+am+Yashraj+Sinha+!!)](https://git.io/typing-svg)
 
 👋 Hello, and welcome to my GitHub!
 
