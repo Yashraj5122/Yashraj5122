@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Yashraj+Sinha+!)](https://git.io/typing-svg)
+
 👋 Hello, and welcome to my GitHub!
 
 I’m Yashraj, a Solution Analyst with a strong focus on backend development, cybersecurity, and networking. My GitHub is where I share my journey through code, exploring everything from data management systems to real-world security labs and backend services. Passionate about building secure and efficient systems, I dive deep into ETL workflows, API development, and the ever-evolving world of cybersecurity.
